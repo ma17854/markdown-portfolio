@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+# Her is a list of stuff
+- iphone
+- food
+- music
